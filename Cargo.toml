@@ -1,5 +1,6 @@
 [package]
 name = "eq-float"
+description = "Float wrappers with a total order (by setting NAN == NAN)"
 version = "0.1.0"
 authors = ["AljoschaMeyer <mail@aljoscha-meyer.de>"]
 edition = "2018"
